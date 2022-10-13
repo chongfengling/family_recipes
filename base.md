@@ -1,1 +1,1 @@
-tomato, flour
+tomato, flour, eggs, fries
